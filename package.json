@@ -1,0 +1,20 @@
+{
+  "name": "concat-obj",
+  "version": "1.0.0",
+  "description": "concatenate few javascript object into one just as array.concat() function",
+  "main": "concatObj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "obj",
+    "object",
+    "concat",
+    "merge",
+    "reduce"
+  ],
+  "author": "John Yeh",
+  "license": "ISC"
+}
