@@ -1,6 +1,6 @@
 {
   "name": "concat-obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "concatenate few javascript object into one just as array.concat() function",
   "main": "concatObj.js",
   "scripts": {
